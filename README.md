@@ -63,6 +63,7 @@ Our objective is to build a classification model to predict the sentiment of COV
 * In tokenization we convert group of sentence into token . It is also called text segmentation or lexical analysis. It is basically splitting data into small chunk of words. Tokenization in python can be done by python NLTK library’s word_tokenize() function
 
 ### After cleaning text we also create wordblog
+
 ![Capture5](https://user-images.githubusercontent.com/82259772/130586193-9eea8926-321f-452f-9af0-118f1276e9aa.PNG)
 
 # 4. Model Training- MULTICLASS AND BINARY.
