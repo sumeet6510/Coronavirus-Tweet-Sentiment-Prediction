@@ -87,7 +87,8 @@ Trained 7 different algorithms for each Multiclass and Binary classification. In
 ### For Binary Classification we got accuracy as - 
 ![Capture8](https://user-images.githubusercontent.com/82259772/130586375-af9dc8f2-686d-482c-ad1e-927932ef1413.PNG)
 
-Also Confusion Matrix for Binary Classification -
+### Also Confusion Matrix for Binary Classification -
+
 ![Capture7](https://user-images.githubusercontent.com/82259772/130586321-6712b4c3-f4f1-4123-989a-be75735076cb.PNG)
 
 # 6. Conclusion
