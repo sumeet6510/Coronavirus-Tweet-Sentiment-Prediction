@@ -70,7 +70,15 @@ Our objective is to build a classification model to predict the sentiment of COV
 
 # 4. Model Training- MULTICLASS AND BINARY.
 
-Trained Naive Bayes algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. Reason to choose Naive Bayes algorithm because for text data 
+Trained Naive Bayes algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. Reason to choose Naive Bayes algorithm because it is a simple classification algorithm which uses probability of the events for its purpose. It is based on the Bayes Theorem which assumes that there is no interdependence amongst the variables.
+
+The Naive Bayesian classifier consists of performing the below steps –
+* Create a frequency table based on the words
+* Calculate the likelihood for each of the classes based on the frequency table
+* Calculate the posterior probability for each class
+* The highest posterior probability is the outcome of the prediction experiment
+
+All these probabilities are calculated by using the Bayes Theorem. As the Naive Bayes algorithm has the assumption of the “Naive” features it performs much better than other algorithms like Logistic Regression, Tree based algorithms etc. The Naive Bayes classifier is much faster with its probability calculations.
 
 # 5. Evaluation
 
