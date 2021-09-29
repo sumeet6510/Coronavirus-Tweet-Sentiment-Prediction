@@ -70,14 +70,7 @@ Our objective is to build a classification model to predict the sentiment of COV
 
 # 4. Model Training- MULTICLASS AND BINARY.
 
-Trained 7 different algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. The algorithms that were used - 
- 1. Logistic Regression
- 2. Support Vector Machine
- 3. Random Forest
- 4. Naive Bayes
- 5. Stochastic Gradient Descent
- 6. XGBosst
- 7. CatBoost
+Trained Naive Bayes algorithms for each Multiclass and Binary classification. In Multiclass we have 5 different classes but in binary we have only two class i.e. Positive and Negative. Reason to choose Naive Bayes algorithm because for text data 
 
 # 5. Evaluation
 
