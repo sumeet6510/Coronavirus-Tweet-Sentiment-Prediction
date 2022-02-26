@@ -99,8 +99,3 @@ All these probabilities are calculated by using the Bayes Theorem. As the Naive 
 
 ![Capture9](https://user-images.githubusercontent.com/82259772/130586434-d070da2a-18df-4d34-aa76-3d38a1e77a7c.PNG)
 
-
-
-
-![WhatsApp Image 2022-02-23 at 12 41 11](https://user-images.githubusercontent.com/82259772/155835202-1ddd6142-d5f1-46d2-a9a7-b7ea3d393770.jpeg)
-
